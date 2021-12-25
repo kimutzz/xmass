@@ -54,7 +54,7 @@
 </head>
 <body background="bg.png">
 
-<?php
+<!--?php
     if(isset($_POST['submit'])){
         $name = $_POST['name'];
     }
@@ -63,7 +63,7 @@
       header('location:index.html');
     }
     
-    ?>
+    ?-->
 
   <div class="card">
     
